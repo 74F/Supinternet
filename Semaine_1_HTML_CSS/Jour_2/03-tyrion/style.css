@@ -1,0 +1,14 @@
+.red{
+	color: #ff0000;
+}
+
+.bold{
+	font-weight: bold;
+}
+.underline{
+	text-decoration: underline; 
+}
+
+.italic{
+	font-style: italic;
+}
