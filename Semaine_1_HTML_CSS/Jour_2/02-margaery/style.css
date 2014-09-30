@@ -1,0 +1,14 @@
+#blue{
+	color: #0000ff;
+}
+
+.bold{
+	font-weight: bold;
+}
+.underline{
+	text-decoration: underline; 
+}
+
+.italic{
+	font-style: italic;
+}
