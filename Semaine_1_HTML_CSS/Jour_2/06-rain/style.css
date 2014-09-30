@@ -1,0 +1,21 @@
+img{
+	display: block;
+	margin: auto;
+	clear: right;
+}
+
+#first_p{
+	text-align: center;
+	border-bottom: 3px dotted black;
+	border-top: 3px dotted black;
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+}
+
+#second_p{
+	text-align: center;
+	border-bottom: 3px solid black;
+	border-top: 3px solid black;
+	border-left: 3px dotted black;
+	border-right: 3px dotted black;
+}
