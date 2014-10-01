@@ -1,0 +1,72 @@
+#nuancier{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+
+.blue, .yellow {
+    height: 270px;
+    width: 10px;
+}
+
+.green, .red {
+    height: 10px;
+    width: 270px;
+}
+
+.blue, .red{
+    float: left;
+}
+
+#blue_1 {
+    background-color: #84beff;
+}
+
+#blue_2 {
+    background-color: #2b8fff;
+}
+
+#blue_3 {
+    background-color: #005abf;
+}
+
+#red_1 {
+    background-color: #ff7171;
+}
+
+#red_2 {
+    background-color: #ff4a4a;
+}
+
+#red_3 {
+    background-color: #ff0c0c;
+}
+
+.green, .yellow{
+    float: right;
+}
+
+#green_1 {
+    background-color: #1a6e00;
+}
+
+#green_2 {
+    background-color: #26a300;
+}
+
+#green_3 {
+    background-color: #31cf00;
+}
+
+
+#yellow_1 {
+    background-color: #fffd64;
+}
+
+#yellow_2 {
+    background-color: #ffeb1a;
+}
+
+#yellow_3 {
+    background-color: #b8b604;
+}
