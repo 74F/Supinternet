@@ -1,0 +1,20 @@
+div{
+    height: 30px;
+}
+#block_blue {
+    background-color: #92C6FF;
+}
+#block_brown {
+    background-color: #67450E;
+    text-align: right;
+    color: white;
+    clear: both;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}

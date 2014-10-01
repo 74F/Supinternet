@@ -1,0 +1,41 @@
+body{
+    background-color: #F63;
+    font-family: "Comic Sans MS";
+    font-size: 12px;
+}
+
+#wrapper{
+    background-color: white;
+    width: 900px;
+    height: 1024px;
+    margin: 60px auto 0px auto;
+}
+
+#header{
+    background-color: #FC0;
+    height: 200px;
+}
+
+#navigation{
+    background-color: #36F;
+    height: 20px;
+}
+
+#menu {
+    float: left;
+    background-color: #0C3;
+    width: 200px;
+    height: 624px;
+}
+*#content {
+    float: left;
+    background-color: #9F0;
+    width: 700px;
+    height: 624px;
+}
+
+#footer {
+    background-color: #03F;
+    height: 180px;
+    clear: both;
+}
