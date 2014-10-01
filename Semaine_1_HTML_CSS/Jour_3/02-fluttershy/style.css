@@ -1,0 +1,23 @@
+#block_1{
+    background-color: #ff9191;
+}
+#block_2{
+    background-color: #ff5252;
+}
+#block_3{
+    background-color: #ff0606;
+}
+#block_4{
+    background-color: #c60000;
+}
+#block_5{
+    background-color: #820303;
+}
+#block_6{
+    background-color: #3c000;
+}
+
+div{
+    width: 300px;
+    height: 10px;
+}
