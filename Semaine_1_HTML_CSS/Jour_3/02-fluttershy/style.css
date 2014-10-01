@@ -1,3 +1,8 @@
+div{
+    width: 300px;
+    height: 10px;
+}
+
 #block_1{
     background-color: #ff9191;
 }
@@ -14,10 +19,5 @@
     background-color: #820303;
 }
 #block_6{
-    background-color: #3c000;
-}
-
-div{
-    width: 300px;
-    height: 10px;
+    background-color: #3c0000;
 }
