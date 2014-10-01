@@ -1,0 +1,13 @@
+#first_bloc{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#second_bloc{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    margin: 145px 0px 0px 10px;
+}
