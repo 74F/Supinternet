@@ -1,0 +1,10 @@
+body{
+    background-image: url("http://intranet.supinternet.fr/Semaine-Web/jour4/background.jpg");
+}
+#phrase2{
+    color: white;
+}
+
+#phrase1, #phrase3{
+    display: none;
+}

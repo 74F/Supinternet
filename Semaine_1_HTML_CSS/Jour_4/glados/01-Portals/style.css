@@ -1,0 +1,32 @@
+body{
+    background-image: url("http://intranet.supinternet.fr/Semaine-Web/jour4/background.jpg");
+}
+@media screen and (min-width: 767px) and (max-width: 1281px) {
+    #phrase2{
+    color: white;
+    }
+    #phrase1, #phrase3{
+    display: none;
+    }
+}
+
+@media screen and (min-width: 1281px) {
+    #phrase1{
+    color: white;
+    }
+    #phrase2, #phrase3{
+    display: none;
+    }
+}
+
+
+
+@media screen and (max-width: 767px) {
+    #phrase3{
+    color: white;
+    }
+    #phrase2, #phrase1{
+    display: none;
+    }
+}
+
