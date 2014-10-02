@@ -1,0 +1,21 @@
+body{
+    font-family: "Courier New", Courier;
+}
+
+#wrapper{
+    width: 600px;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+}
+
+#content{
+    margin: 10px;
+}
+#footer{
+    text-align: right;
+}
+
+form{
+    text-align: left;
+}
